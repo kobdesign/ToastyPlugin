@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kobdesign/ToastyPlugin.git"
+    "url": "git+https://github.com/stanidesis/toastyplugin.git"
   },
   "keywords": [
     "Toast",
@@ -26,10 +26,10 @@
       "version": ">=3.0.0"
     }
   ],
-  "author": "Abhisak <kobdesign@gmail.com>",
+  "author": "Stanley Idesis <stan.idesis@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kobdesign/toastyplugin/issues"
+    "url": "https://github.com/stanidesis/toastyplugin/issues"
   },
-  "homepage": "https://github.com/kobdesign/toastyplugin/"
+  "homepage": "https://github.com/stanidesis/toastyplugin/"
 }
