@@ -18,4 +18,5 @@ ToastyPlugin.install = function() {
   window.plugins.toastyPlugin = new ToastyPlugin();
   return window.plugins.toastyPlugin;
 };
+
 cordova.addConstructor(ToastyPlugin.install);
